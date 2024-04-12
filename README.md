@@ -18,4 +18,4 @@ It is impossible to run the code without CUDA!
 Contributions are welcome! If you have any suggestions, feature requests, or bug reports, please open an issue or submit a pull request or text kkurbanova.03@yandex.ru.
 
 # Contributors
-This code and dataset were developed by [Komila Kurbanova](https://github.com/komilakurbanova) and Alexandra Ulyanova
+This code and dataset were developed by [Komila Kurbanova](https://github.com/komilakurbanova) and [Alexandra Ulyanova](https://github.com/alexxandra-u)
